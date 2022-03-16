@@ -20621,5 +20621,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player Racer Lambo
       objectReference: {fileID: 0}
+    - target: {fileID: 5112410934420278828, guid: 7036516ec16a0ef48973980940952406, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7036516ec16a0ef48973980940952406, type: 3}

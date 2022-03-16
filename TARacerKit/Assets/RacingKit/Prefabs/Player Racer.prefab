@@ -896,7 +896,7 @@ MonoBehaviour:
   LeftFrontWheel: {fileID: 3362515709194482286}
   LeftRearWheel: {fileID: 2936941537502777628}
   RightFrontWheel: {fileID: 4962003492345665678}
-  RightRearWheel: {fileID: 4962003492345665678}
+  RightRearWheel: {fileID: 3393155124113914763}
   isBike: 0
   GroundLayer:
     serializedVersion: 2
