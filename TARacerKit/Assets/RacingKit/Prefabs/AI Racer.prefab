@@ -488,7 +488,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rigidBody: {fileID: 8287833095134422619}
   pathManager: {fileID: 0}
-  maxSpeed: 30
+  InRangeofPointDistance: 10
+  maxSpeed: 13.5
   MaxSpeedTurbo: 60
   forwardAccel: 8
   forwardAccelTurbo: 12

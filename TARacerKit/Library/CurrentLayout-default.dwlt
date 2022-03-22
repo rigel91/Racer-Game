@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Techability
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 342}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 18
+  controlID: 99
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,10 +171,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 709, y: 492}
+  m_MinSize: {x: 534, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 107
+  controlID: 188
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 108
+  controlID: 54
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -290,7 +290,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: InspectorWindow
+  m_Name: TechAbility
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -299,14 +299,14 @@ MonoBehaviour:
     y: 0
     width: 511
     height: 947
-  m_MinSize: {x: 276, y: 71}
+  m_MinSize: {x: 101, y: 121}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 20}
+  m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 20}
   - {fileID: 13}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -427,11 +427,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 0
+      y: 21
       width: 968
-      height: 643
+      height: 622
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 484, y: 321.5}
+    m_Translation: {x: 484, y: 311}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -439,9 +439,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -484
-      y: -321.5
+      y: -311
       width: 968
-      height: 643
+      height: 622
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 968, y: 643}
@@ -486,9 +486,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 16.666891, y: 8.317108, z: 34.39662}
+    m_Target: {x: 2.4269, y: 29.464758, z: -37.021957}
     speed: 2
-    m_Value: {x: 16.666891, y: 8.317108, z: 34.39662}
+    m_Value: {x: 2.4269, y: 29.464758, z: -37.021957}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -535,13 +535,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.27487764, y: 0.53647995, z: -0.19023973, w: 0.77502793}
+    m_Target: {x: 0.27295265, y: 0.2346177, z: -0.06879249, w: 0.9305685}
     speed: 2
-    m_Value: {x: 0.27513134, y: 0.53525585, z: -0.18980557, w: 0.77574337}
+    m_Value: {x: 0.27292007, y: 0.2345897, z: -0.06878428, w: 0.9304575}
   m_Size:
-    m_Target: 48.649666
+    m_Target: 14.948282
     speed: 2
-    m_Value: 46.554703
+    m_Value: 14.948282
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -655,9 +655,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f4f1ffff
-      m_LastClickedID: -3596
-      m_ExpandedIDs: d0f4ffffd6f4ffffe8f9ffff70fbffff
+      m_SelectedIDs: aef8ffff
+      m_LastClickedID: -1874
+      m_ExpandedIDs: 6cf8ffffaef8ffff70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -719,22 +719,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/RacingKit/AssetPacks/AxeyWorks/PolyWorks/Meshes/Vegetation
+    - Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 69
   m_LastFolders:
-  - Assets/RacingKit/AssetPacks/AxeyWorks/PolyWorks/Meshes/Vegetation
+  - Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\RIgel Kuper\Desktop\Unity Games\Techability\Repos\Racer-Game\TARacerKit
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 145}
-    m_SelectedIDs: 62420000
-    m_LastClickedID: 16994
-    m_ExpandedIDs: 0000000046420000484200004a4200004c4200004e42000050420000524200005442000056420000584200005a4200005c4200005e420000604200006242000000ca9a3b
+    scrollPos: {x: 0, y: 241}
+    m_SelectedIDs: 48470000
+    m_LastClickedID: 18248
+    m_ExpandedIDs: 00000000f8420000fa420000fc420000fe42000000430000024300000443000006430000084300000a4300000c4300000e43000010430000124300001443000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -762,7 +762,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000046420000484200004a4200004c4200004e42000050420000524200005442000056420000584200005a4200005c4200005e4200006042000062420000
+    m_ExpandedIDs: 00000000f8420000fa420000fc420000fe42000000430000024300000443000006430000084300000a4300000c4300000e430000104300001243000014430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -789,7 +789,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000fa4f000032e8000034880000d83c00007e5500008c720000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -814,7 +814,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 291}
+    m_ScrollPosition: {x: 0, y: 360}
     m_GridSize: 69
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 225
