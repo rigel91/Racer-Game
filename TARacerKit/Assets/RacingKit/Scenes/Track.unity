@@ -3924,6 +3924,10 @@ PrefabInstance:
       propertyPath: pathManager
       value: 
       objectReference: {fileID: 760842726}
+    - target: {fileID: 6190419608060917455, guid: 57d645336507fc9479872367ca7ae0ed, type: 3}
+      propertyPath: InRangeofPointDistance
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8287833096449225417, guid: 57d645336507fc9479872367ca7ae0ed, type: 3}
       propertyPath: m_RootOrder
       value: 1
