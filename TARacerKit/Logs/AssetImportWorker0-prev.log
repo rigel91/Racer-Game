@@ -15,11 +15,11 @@ C:/Users/RIgel Kuper/Desktop/Unity Games/Techability/Repos/Racer-Game/TARacerKit
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61848
+59580
 Successfully changed project path to: C:/Users/RIgel Kuper/Desktop/Unity Games/Techability/Repos/Racer-Game/TARacerKit
 C:/Users/RIgel Kuper/Desktop/Unity Games/Techability/Repos/Racer-Game/TARacerKit
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 51.41 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 50.94 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.28f1 (f5400f52e03f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/Resources/UnitySubsystems
@@ -35,77 +35,77 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56600
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56436
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003579 seconds.
+Registered in 0.003411 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 45.55 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 60.99 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.664 seconds
+- Completed reload, in  0.731 seconds
 Domain Reload Profiling:
-	ReloadAssembly (665ms)
-		BeginReloadAssembly (77ms)
+	ReloadAssembly (732ms)
+		BeginReloadAssembly (83ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (499ms)
-			LoadAssemblies (74ms)
+		EndReloadAssembly (562ms)
+			LoadAssemblies (81ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (162ms)
+			SetupTypeCache (181ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (29ms)
-			SetupLoadedEditorAssemblies (192ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (222ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (46ms)
-				BeforeProcessingInitializeOnLoad (17ms)
-				ProcessInitializeOnLoadAttributes (90ms)
-				ProcessInitializeOnLoadMethodAttributes (32ms)
+				RefreshPlugins (61ms)
+				BeforeProcessingInitializeOnLoad (18ms)
+				ProcessInitializeOnLoadAttributes (103ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.012331 seconds.
+Registered in 0.006684 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.104 seconds
+- Completed reload, in  1.199 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1105ms)
-		BeginReloadAssembly (166ms)
+	ReloadAssembly (1201ms)
+		BeginReloadAssembly (195ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (21ms)
-		EndReloadAssembly (865ms)
-			LoadAssemblies (110ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (926ms)
+			LoadAssemblies (134ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (298ms)
-			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (41ms)
-			SetupLoadedEditorAssemblies (325ms)
+			SetupTypeCache (321ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (343ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
+				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (87ms)
-				ProcessInitializeOnLoadAttributes (210ms)
-				ProcessInitializeOnLoadMethodAttributes (10ms)
-				AfterProcessingInitializeOnLoad (10ms)
+				BeforeProcessingInitializeOnLoad (92ms)
+				ProcessInitializeOnLoadAttributes (220ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (11ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (7ms)
@@ -113,14 +113,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1551 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 73.1 MB.
 System memory in use after: 73.2 MB.
 
 Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1984.
-Total: 3.005700 ms (FindLiveObjects: 0.182900 ms CreateObjectMapping: 0.039800 ms MarkObjects: 2.714300 ms  DeleteObjects: 0.067600 ms)
+Total: 2.839100 ms (FindLiveObjects: 0.142500 ms CreateObjectMapping: 0.038000 ms MarkObjects: 2.588900 ms  DeleteObjects: 0.068600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,937 +134,844 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_Red.prefab
-  artifactKey: Guid(8bdbd6ed29100d04da370b3d67d3cd47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_Red.prefab using Guid(8bdbd6ed29100d04da370b3d67d3cd47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e77231521c8e0880253942b1eb88bd2') in 0.142650 seconds 
-  Import took 0.146664 seconds .
+  path: Assets/Resources
+  artifactKey: Guid(11ccb2a45cc383343a9af0428cfe63de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(11ccb2a45cc383343a9af0428cfe63de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5b8dfe0b6051955ff3915d92e59e9e') in 0.013256 seconds 
+  Import took 0.017144 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_LightBlue.prefab
-  artifactKey: Guid(295319b4ae629bc4c9fbbd793c2d4344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_LightBlue.prefab using Guid(295319b4ae629bc4c9fbbd793c2d4344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea926035d42f82a266b68a96e05f18e2') in 0.026449 seconds 
-  Import took 0.031239 seconds .
+  Time since last request: 2.535046 seconds.
+  path: Assets/RacingKit
+  artifactKey: Guid(54d29491471a35848868d5a47e5ab587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit using Guid(54d29491471a35848868d5a47e5ab587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c35ff014edea01065f1dc327009ff4e5') in 0.009182 seconds 
+  Import took 0.012473 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000406 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Purple.prefab
-  artifactKey: Guid(ac15d2574a3b71b4eb1290addd052ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Purple.prefab using Guid(ac15d2574a3b71b4eb1290addd052ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af975fc7654db5d35ccd5d9e0cb2fda') in 0.023826 seconds 
-  Import took 0.027894 seconds .
+  Time since last request: 5.197110 seconds.
+  path: Assets/RacingKit/Prefabs
+  artifactKey: Guid(3284664f0857fac48a899af5b3f0fca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/Prefabs using Guid(3284664f0857fac48a899af5b3f0fca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb8842dfd55db5a8beabad3d99c6610') in 0.011785 seconds 
+  Import took 0.015120 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000173 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Black.prefab
-  artifactKey: Guid(3d468abfe4e2f0e46a4df74ed46f5a62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Black.prefab using Guid(3d468abfe4e2f0e46a4df74ed46f5a62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9fd8ddcfcc6a2287c3f46d0c200232c') in 0.025994 seconds 
-  Import took 0.030227 seconds .
+  Time since last request: 675.878343 seconds.
+  path: Assets/RacingKit/Prefabs/Pathpoint 1.prefab
+  artifactKey: Guid(6fe8de2a919637a4e92b51fd5db4f19f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/Prefabs/Pathpoint 1.prefab using Guid(6fe8de2a919637a4e92b51fd5db4f19f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '349a8b3c5a8874b132cd77fa619e90b2') in 0.125262 seconds 
+  Import took 0.129643 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Orange.prefab
-  artifactKey: Guid(b99e3be02f150614bbafd136eb01c613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Orange.prefab using Guid(b99e3be02f150614bbafd136eb01c613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc9306e7c061cfe0cb661e10374574d8') in 0.021936 seconds 
-  Import took 0.026192 seconds .
+  Time since last request: 49.706085 seconds.
+  path: Assets/RacingKit/Prefabs/blue.mat
+  artifactKey: Guid(36bd121dd7f3e4248af7a9fd70330444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/Prefabs/blue.mat using Guid(36bd121dd7f3e4248af7a9fd70330444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3869d4e3b91551b3c9c886b096ea3274') in 0.048554 seconds 
+  Import took 0.051917 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Black.prefab
-  artifactKey: Guid(664a7f8783bdc974aa19e69abf158b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Black.prefab using Guid(664a7f8783bdc974aa19e69abf158b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a7b0a1962e70a5b6c3ec3e4b119238a') in 0.023207 seconds 
-  Import took 0.028485 seconds .
+  Time since last request: 8.871827 seconds.
+  path: Assets/RacingKit/Prefabs/Pathpoint 1.prefab
+  artifactKey: Guid(6fe8de2a919637a4e92b51fd5db4f19f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/Prefabs/Pathpoint 1.prefab using Guid(6fe8de2a919637a4e92b51fd5db4f19f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5352307237aeb70b6704168d9285270') in 0.017288 seconds 
+  Import took 0.020859 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Blue.prefab
-  artifactKey: Guid(a24bdb0cd920710499924276c417cc67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Blue.prefab using Guid(a24bdb0cd920710499924276c417cc67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec4bdf0bdb2f40dc924c2d85e39af46c') in 0.025616 seconds 
-  Import took 0.028951 seconds .
+  Time since last request: 9.146790 seconds.
+  path: Assets/RacingKit/Prefabs/Pathpoint Blue.prefab
+  artifactKey: Guid(6fe8de2a919637a4e92b51fd5db4f19f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/Prefabs/Pathpoint Blue.prefab using Guid(6fe8de2a919637a4e92b51fd5db4f19f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd940ba4e3119a45911c6a0d05f4af62f') in 0.021767 seconds 
+  Import took 0.025296 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Lime.prefab
-  artifactKey: Guid(aeedb02be3d075245a686143f2e4cf0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Lime.prefab using Guid(aeedb02be3d075245a686143f2e4cf0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63d6d4ddc4110bf978b725ff9273bb8f') in 0.022019 seconds 
-  Import took 0.025783 seconds .
+  Time since last request: 82.741738 seconds.
+  path: Assets/RacingKit/Prefabs/blue.mat
+  artifactKey: Guid(36bd121dd7f3e4248af7a9fd70330444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/Prefabs/blue.mat using Guid(36bd121dd7f3e4248af7a9fd70330444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232c6775cc0ad05f3971a1859c16b8ed') in 0.024324 seconds 
+  Import took 0.027553 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_LightBlue.prefab
-  artifactKey: Guid(0c29da0af99bc2441bee593e33f1e5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_LightBlue.prefab using Guid(0c29da0af99bc2441bee593e33f1e5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da49f387207a144eae72819700c65b6d') in 0.023729 seconds 
-  Import took 0.029211 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006800 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.095 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1096ms)
+		BeginReloadAssembly (137ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (39ms)
+		EndReloadAssembly (884ms)
+			LoadAssemblies (109ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (298ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (340ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (95ms)
+				ProcessInitializeOnLoadAttributes (214ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.9 MB.
+System memory in use after: 75.0 MB.
 
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2027.
+Total: 3.294800 ms (FindLiveObjects: 0.183600 ms CreateObjectMapping: 0.041200 ms MarkObjects: 3.041500 ms  DeleteObjects: 0.027000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006992 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.144 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1145ms)
+		BeginReloadAssembly (127ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (945ms)
+			LoadAssemblies (109ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (334ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (344ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (98ms)
+				ProcessInitializeOnLoadAttributes (213ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.9 MB.
+System memory in use after: 75.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2029.
+Total: 3.812000 ms (FindLiveObjects: 0.195600 ms CreateObjectMapping: 0.037000 ms MarkObjects: 3.543500 ms  DeleteObjects: 0.034100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006760 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.247 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1247ms)
+		BeginReloadAssembly (143ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (1019ms)
+			LoadAssemblies (129ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (335ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (378ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (108ms)
+				ProcessInitializeOnLoadAttributes (239ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.9 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2031.
+Total: 3.746900 ms (FindLiveObjects: 0.356100 ms CreateObjectMapping: 0.057100 ms MarkObjects: 3.303000 ms  DeleteObjects: 0.028400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006136 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.142 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1143ms)
+		BeginReloadAssembly (139ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (927ms)
+			LoadAssemblies (115ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (318ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (341ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (213ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2033.
+Total: 3.044400 ms (FindLiveObjects: 0.149200 ms CreateObjectMapping: 0.039400 ms MarkObjects: 2.824600 ms  DeleteObjects: 0.030200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006427 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.069 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1069ms)
+		BeginReloadAssembly (124ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (874ms)
+			LoadAssemblies (109ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (299ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (319ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (201ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2035.
+Total: 3.112700 ms (FindLiveObjects: 0.215200 ms CreateObjectMapping: 0.041200 ms MarkObjects: 2.830800 ms  DeleteObjects: 0.024100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008190 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.188 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1188ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (980ms)
+			LoadAssemblies (114ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (289ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (397ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (103ms)
+				ProcessInitializeOnLoadAttributes (255ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2037.
+Total: 2.994500 ms (FindLiveObjects: 0.199900 ms CreateObjectMapping: 0.045600 ms MarkObjects: 2.721700 ms  DeleteObjects: 0.026400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.220 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1221ms)
+		BeginReloadAssembly (142ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (982ms)
+			LoadAssemblies (128ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (346ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (358ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (219ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2039.
+Total: 3.084900 ms (FindLiveObjects: 0.199900 ms CreateObjectMapping: 0.038600 ms MarkObjects: 2.815300 ms  DeleteObjects: 0.029100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008332 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.226 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1227ms)
+		BeginReloadAssembly (139ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (1004ms)
+			LoadAssemblies (125ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (356ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (347ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (101ms)
+				ProcessInitializeOnLoadAttributes (215ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2041.
+Total: 2.810900 ms (FindLiveObjects: 0.151000 ms CreateObjectMapping: 0.037500 ms MarkObjects: 2.594600 ms  DeleteObjects: 0.026400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008065 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.090 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1091ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (877ms)
+			LoadAssemblies (118ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (296ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (329ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (214ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2043.
+Total: 3.718900 ms (FindLiveObjects: 0.261900 ms CreateObjectMapping: 0.044000 ms MarkObjects: 3.377700 ms  DeleteObjects: 0.032900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_White.prefab
-  artifactKey: Guid(49b35a1034e61c1448b84e76e2caef0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_White.prefab using Guid(49b35a1034e61c1448b84e76e2caef0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c04a9c22033f72804975324aff744616') in 0.027309 seconds 
-  Import took 0.032231 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000174 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Green.prefab
-  artifactKey: Guid(e36d186965e7fa24591931bbb25bfaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Green.prefab using Guid(e36d186965e7fa24591931bbb25bfaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0492dbc9773d175d9ded44326d1f5e3d') in 0.023145 seconds 
-  Import took 0.027535 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_White.prefab
-  artifactKey: Guid(72edeea5e1a9fc44dae13031fc9620c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_White.prefab using Guid(72edeea5e1a9fc44dae13031fc9620c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c20789bb12355e5171871c1d59cdbee') in 0.021330 seconds 
-  Import took 0.025085 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Yellow.prefab
-  artifactKey: Guid(701bae8b3bebddf46b2de9a304f3a18d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Yellow.prefab using Guid(701bae8b3bebddf46b2de9a304f3a18d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b08d34a88a6f47a4f919fc51854fed0') in 0.023611 seconds 
-  Import took 0.027802 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_Orange.prefab
-  artifactKey: Guid(be5d7332baa93a64c8fcf632b99d79e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_Orange.prefab using Guid(be5d7332baa93a64c8fcf632b99d79e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91825334bcb49ade46295d3287fbd8c0') in 0.024693 seconds 
-  Import took 0.028992 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_Yellow.prefab
-  artifactKey: Guid(8fae5c85c35a4cf4daf3dba1c0704c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_Yellow.prefab using Guid(8fae5c85c35a4cf4daf3dba1c0704c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69cf41f193136aae08d4cd13497219a7') in 0.022449 seconds 
-  Import took 0.027345 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000380 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_Purple.prefab
-  artifactKey: Guid(183065da1ad1d2a49b10fa0a241f0f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_Purple.prefab using Guid(183065da1ad1d2a49b10fa0a241f0f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02f44f6b89a87a39847d16e588a1dd6') in 0.025052 seconds 
-  Import took 0.027950 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_Lime.prefab
-  artifactKey: Guid(23652e8711e75ec48ad42f4e3c14b6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MonsterTruck_Lime.prefab using Guid(23652e8711e75ec48ad42f4e3c14b6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518c61e4efa339cd0e664a33bc95c06d') in 0.025425 seconds 
-  Import took 0.029815 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Red.prefab
-  artifactKey: Guid(afd1f849f0f1df948ab8dec9aeee312f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MotorBike_Red.prefab using Guid(afd1f849f0f1df948ab8dec9aeee312f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b472895166cf43371a83285c3ea83f') in 0.023215 seconds 
-  Import took 0.026864 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.416046 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Blue.prefab
-  artifactKey: Guid(af2250ca50625b44c97cd3a9a79dc626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Blue.prefab using Guid(af2250ca50625b44c97cd3a9a79dc626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a64ba8f2643da8e5e28016fd363326') in 0.025680 seconds 
-  Import took 0.030584 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000154 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_LightBlue.prefab
-  artifactKey: Guid(8f792f0be7894c24b8b9f89034748f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_LightBlue.prefab using Guid(8f792f0be7894c24b8b9f89034748f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cbaa40ccbf8d29f644b676920856414') in 0.025832 seconds 
-  Import took 0.029311 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Purple.prefab
-  artifactKey: Guid(9c7a47069d78c414893b58de9eb92ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Purple.prefab using Guid(9c7a47069d78c414893b58de9eb92ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eaf3b7dada11a0a0bb707211f8da8a6') in 0.024742 seconds 
-  Import took 0.032937 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Lime.prefab
-  artifactKey: Guid(365b5b018d4b55b4d8611398fea666ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Lime.prefab using Guid(365b5b018d4b55b4d8611398fea666ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49caf2b5a529518def5d346379df6a1c') in 0.023169 seconds 
-  Import took 0.027882 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Orange.prefab
-  artifactKey: Guid(3e608f018cffa5f48a575ce0b68b7f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Orange.prefab using Guid(3e608f018cffa5f48a575ce0b68b7f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '947effba04444a64299066d33f1e6393') in 0.024392 seconds 
-  Import took 0.027844 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Green.prefab
-  artifactKey: Guid(1edc050dae60c3e4ca146856ab1e40aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Green.prefab using Guid(1edc050dae60c3e4ca146856ab1e40aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6926c9a0d6e334111f1f8124318d090') in 0.027261 seconds 
-  Import took 0.032221 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.268447 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Red.prefab
-  artifactKey: Guid(673ea8dfee8c7d64f8676416eb049d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Red.prefab using Guid(673ea8dfee8c7d64f8676416eb049d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '503d7573decc2563dd66871ca297601e') in 0.026731 seconds 
-  Import took 0.030744 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Yellow.prefab
-  artifactKey: Guid(d66646b9f8555d6448286f6e532e577e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_Yellow.prefab using Guid(d66646b9f8555d6448286f6e532e577e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f04445edb7c40b1c1670bde362c75914') in 0.021802 seconds 
-  Import took 0.026440 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Black.prefab
-  artifactKey: Guid(82f56dff7842c194ead307a6266e544e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Black.prefab using Guid(82f56dff7842c194ead307a6266e544e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '075d4015ad9834c545d5c13a13a77414') in 0.023284 seconds 
-  Import took 0.027009 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000281 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_White.prefab
-  artifactKey: Guid(84e283d61051f3a4b9230972462ef1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleCar_White.prefab using Guid(84e283d61051f3a4b9230972462ef1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ff9e5a5719e83803341bd74164d270') in 0.021062 seconds 
-  Import took 0.025319 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Red.prefab
-  artifactKey: Guid(bd409a4a526fda841a2d311cb872fb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Red.prefab using Guid(bd409a4a526fda841a2d311cb872fb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec4a7d86a07c7217d07a2d96914460b1') in 0.026780 seconds 
-  Import took 0.029655 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_White.prefab
-  artifactKey: Guid(dcdf0c4646b322044b1cc1c1c2c2c8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_White.prefab using Guid(dcdf0c4646b322044b1cc1c1c2c2c8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '401b0ee7e37a95c9cee0a55f6de801c7') in 0.023004 seconds 
-  Import took 0.028894 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_LightBlue.prefab
-  artifactKey: Guid(00ad2dc10c53ec6489e0511eb8676ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_LightBlue.prefab using Guid(00ad2dc10c53ec6489e0511eb8676ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c47496d6630791de7aecd57fd0627652') in 0.023760 seconds 
-  Import took 0.027314 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Lime.prefab
-  artifactKey: Guid(03c2bf9ee22f443418f254e81ab8438f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Lime.prefab using Guid(03c2bf9ee22f443418f254e81ab8438f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1a1c082d6402c2c2b680409db04f15a') in 0.023249 seconds 
-  Import took 0.028580 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Orange.prefab
-  artifactKey: Guid(df8b7cf3d453cc84b8e34d34a07f11fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Orange.prefab using Guid(df8b7cf3d453cc84b8e34d34a07f11fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20036bfdf796337bf653380ea60f24e0') in 0.023986 seconds 
-  Import took 0.028897 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Purple.prefab
-  artifactKey: Guid(1bf45e611f85375478fc4535db8b9f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Purple.prefab using Guid(1bf45e611f85375478fc4535db8b9f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6918cc12cf962e4c6017071c78a54f') in 0.024990 seconds 
-  Import took 0.028162 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Blue.prefab
-  artifactKey: Guid(7069e8b65cc0b7940b0cdc2e0dcc99e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Blue.prefab using Guid(7069e8b65cc0b7940b0cdc2e0dcc99e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ea77c42c01c8858d5a64ef81df85cd') in 0.024775 seconds 
-  Import took 0.031904 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Green.prefab
-  artifactKey: Guid(644b8fa98955b43419a6354dc96e76f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Green.prefab using Guid(644b8fa98955b43419a6354dc96e76f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f68815f57ce06995bada8f843f8162f') in 0.025313 seconds 
-  Import took 0.029521 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.176628 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Yellow.prefab
-  artifactKey: Guid(f9a3dfaa6ff016649bfc2df0020dcaff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_MuscleSports_Yellow.prefab using Guid(f9a3dfaa6ff016649bfc2df0020dcaff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b7f7a01f681f112b68a849323f917e') in 0.025546 seconds 
-  Import took 0.029576 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000164 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Black.prefab
-  artifactKey: Guid(70a1646b90df9414db6b42e5bb023ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Black.prefab using Guid(70a1646b90df9414db6b42e5bb023ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd042b30e8e8bf9a8333e4adbeafba6b4') in 0.022611 seconds 
-  Import took 0.026565 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Green.prefab
-  artifactKey: Guid(1a63628000a2800468f9efe63a29011f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Green.prefab using Guid(1a63628000a2800468f9efe63a29011f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213a8b8cb6e92114cc94f7848770e5ff') in 0.024112 seconds 
-  Import took 0.027814 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Blue.prefab
-  artifactKey: Guid(db1c4a0b1f734dd43af7558eb0dcc06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Blue.prefab using Guid(db1c4a0b1f734dd43af7558eb0dcc06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8e2181ccb109713ac0cf8502e2dd45') in 0.021387 seconds 
-  Import took 0.025813 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Purple.prefab
-  artifactKey: Guid(580efa2e2747dc74c9ecf3cbeab85c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Purple.prefab using Guid(580efa2e2747dc74c9ecf3cbeab85c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f749ca6d163e3977a0641599116180b1') in 0.024455 seconds 
-  Import took 0.029729 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000329 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Lime.prefab
-  artifactKey: Guid(21f68c2549cf574469c3616e62e8f11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Lime.prefab using Guid(21f68c2549cf574469c3616e62e8f11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b798492901950b475c1e8889d3d76a9e') in 0.026626 seconds 
-  Import took 0.030877 seconds .
+  Time since last request: 1431.186289 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_Blank.prefab
+  artifactKey: Guid(700cd63f87a43f14191342c370abef3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_Blank.prefab using Guid(700cd63f87a43f14191342c370abef3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e33b12d101bf6e90f277c12cfc25528') in 0.091060 seconds 
+  Import took 0.094462 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000195 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Orange.prefab
-  artifactKey: Guid(c9618023250304d499042a60b61566e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Orange.prefab using Guid(c9618023250304d499042a60b61566e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ec9286632a913a8f9cd6d51b8e934d') in 0.023856 seconds 
-  Import took 0.027726 seconds .
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Sand.prefab
+  artifactKey: Guid(6df0ac1e88b57e44ea60242b94bcd1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Sand.prefab using Guid(6df0ac1e88b57e44ea60242b94bcd1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237570d981d445502e20c4ea6bb7328d') in 0.024588 seconds 
+  Import took 0.028206 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Red.prefab
-  artifactKey: Guid(6fd510a6e3661a3418d3be7c9262dccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Red.prefab using Guid(6fd510a6e3661a3418d3be7c9262dccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9052eeb149777965b28388860aabe2') in 0.022974 seconds 
-  Import took 0.026697 seconds .
+  Time since last request: 0.000374 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerTight_01.prefab
+  artifactKey: Guid(90f44237a22b32b4b8c80df56a11cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerTight_01.prefab using Guid(90f44237a22b32b4b8c80df56a11cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be46803497155852bb7740053ab11cdb') in 0.023266 seconds 
+  Import took 0.027673 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000212 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_LightBlue.prefab
-  artifactKey: Guid(819c2d6c93eb506439fb3fc598ef76b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_LightBlue.prefab using Guid(819c2d6c93eb506439fb3fc598ef76b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec46e8daf61a837bd8cda26f9be10b3') in 0.022594 seconds 
-  Import took 0.026168 seconds .
+  Time since last request: 0.000610 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerTight_02.prefab
+  artifactKey: Guid(ecacdd040baaaa947a027e24714953ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerTight_02.prefab using Guid(ecacdd040baaaa947a027e24714953ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219d5168378cc7335b699a70ad3f4087') in 0.025622 seconds 
+  Import took 0.030153 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.165909 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_White.prefab
-  artifactKey: Guid(eba20188873a1bb4a88f84ea6b014f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_White.prefab using Guid(eba20188873a1bb4a88f84ea6b014f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d74ef5ba87e1665f7b904c87700cd58') in 0.023696 seconds 
-  Import took 0.026710 seconds .
+  Time since last request: 0.000186 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Dirt_Skids.prefab
+  artifactKey: Guid(1b6b9ef6c09befc41aa889d992556cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Dirt_Skids.prefab using Guid(1b6b9ef6c09befc41aa889d992556cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e692fea162ceb6e2665359896fd4a3') in 0.027648 seconds 
+  Import took 0.031250 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Black.prefab
-  artifactKey: Guid(3fbd1a8f4ae78e941a96081050ad8804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Black.prefab using Guid(3fbd1a8f4ae78e941a96081050ad8804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c055ddb173a36ef437e068287d83824') in 0.018736 seconds 
-  Import took 0.021223 seconds .
+  Time since last request: 0.000448 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Grass.prefab
+  artifactKey: Guid(b2512aadd28fca443982f66ee57ed5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Grass.prefab using Guid(b2512aadd28fca443982f66ee57ed5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdc0def421073e3ee183da1e1f3c82e8') in 0.020611 seconds 
+  Import took 0.024322 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000175 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Lime.prefab
-  artifactKey: Guid(63be04f6427d7fa4b94a5cf15a7a06b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Lime.prefab using Guid(63be04f6427d7fa4b94a5cf15a7a06b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3374ed5570bb4f3a444e90e05409cf20') in 0.023850 seconds 
-  Import took 0.027962 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Yellow.prefab
-  artifactKey: Guid(27d4ca444cf8f8241b9b387afb09821b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_OffRoadTruck_Yellow.prefab using Guid(27d4ca444cf8f8241b9b387afb09821b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb08ea19c71d87d5b8882266d05010d2') in 0.024495 seconds 
-  Import took 0.028120 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Orange.prefab
-  artifactKey: Guid(7bca69cc738dda94a858c5ba3f9639a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Orange.prefab using Guid(7bca69cc738dda94a858c5ba3f9639a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24905031af5bafd723906db01862b152') in 0.022006 seconds 
-  Import took 0.025863 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Purple.prefab
-  artifactKey: Guid(b1e613f737b7f5a4bb7def30717edc96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Purple.prefab using Guid(b1e613f737b7f5a4bb7def30717edc96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def91947299b95734219a9c3e32b83fd') in 0.025304 seconds 
-  Import took 0.027797 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Green.prefab
-  artifactKey: Guid(3e91d6d5314268945b109686c8ef987e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Green.prefab using Guid(3e91d6d5314268945b109686c8ef987e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8517ce970fb8700893dc2d2546e243') in 0.022893 seconds 
-  Import took 0.026766 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Blue.prefab
-  artifactKey: Guid(c7ade4e63b400c8418b07510a86fdf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Blue.prefab using Guid(c7ade4e63b400c8418b07510a86fdf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '167155bdb86bd4a5a5e441a2e5d37d23') in 0.023262 seconds 
-  Import took 0.027344 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000175 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_LightBlue.prefab
-  artifactKey: Guid(667f60cced7646849b36c4f163f5b47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_LightBlue.prefab using Guid(667f60cced7646849b36c4f163f5b47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dfe9a5e385ac6737eb748c71db91ee4') in 0.025522 seconds 
-  Import took 0.028691 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.166196 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Red.prefab
-  artifactKey: Guid(933a3221ffe37eb4fb6ddfe73de6049e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Red.prefab using Guid(933a3221ffe37eb4fb6ddfe73de6049e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e2042d0d4a62e23c7f922b8349cccd3') in 0.029914 seconds 
-  Import took 0.034023 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Black.prefab
-  artifactKey: Guid(03cd3f4b48071b8408afb6350de08188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Black.prefab using Guid(03cd3f4b48071b8408afb6350de08188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4076d49023d1ad92f666d42e349c9416') in 0.021259 seconds 
-  Import took 0.024075 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_White.prefab
-  artifactKey: Guid(e46b37d844a649d4e89cc6d5b6cd102a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_White.prefab using Guid(e46b37d844a649d4e89cc6d5b6cd102a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12216fd8a3ee596baee074a0a08c780f') in 0.022952 seconds 
-  Import took 0.026581 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Red.prefab
-  artifactKey: Guid(145a326964169f94ba6f117ae0732d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Red.prefab using Guid(145a326964169f94ba6f117ae0732d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84cca4a2e26efdda758a1dede9d191ac') in 0.029524 seconds 
-  Import took 0.033420 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_LightBlue.prefab
-  artifactKey: Guid(e74a2ff36e4c262458497fba260684fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_LightBlue.prefab using Guid(e74a2ff36e4c262458497fba260684fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5f9428fdab495a103bc106cabbf20d8') in 0.023026 seconds 
-  Import took 0.027043 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_White.prefab
-  artifactKey: Guid(bf10fb212b38e5948a2916111c29e2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_White.prefab using Guid(bf10fb212b38e5948a2916111c29e2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be20e01ec2a7d9c4499ae82979fb5b3') in 0.022995 seconds 
-  Import took 0.027140 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Orange.prefab
-  artifactKey: Guid(6e6c1f54694a31d4e887e22d7a3da8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Orange.prefab using Guid(6e6c1f54694a31d4e887e22d7a3da8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a02f97442b1e6647accd5ea6ef64d23a') in 0.022897 seconds 
-  Import took 0.026248 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Purple.prefab
-  artifactKey: Guid(6a3dc2c068325e740bd9a25d2520faaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Purple.prefab using Guid(6a3dc2c068325e740bd9a25d2520faaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '730a616b394937aac76418622aae007b') in 0.025277 seconds 
-  Import took 0.030093 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Blue.prefab
-  artifactKey: Guid(143d5150f19130f4f908bb8d6e1bd179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Blue.prefab using Guid(143d5150f19130f4f908bb8d6e1bd179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8a8de97f88ce91edc41bf552137ff2') in 0.022880 seconds 
-  Import took 0.025338 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Green.prefab
-  artifactKey: Guid(987278bcc17f9b943ad98cc6e6b93dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Green.prefab using Guid(987278bcc17f9b943ad98cc6e6b93dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18de6eb85cd52285708fa0dabc76a22b') in 0.025150 seconds 
-  Import took 0.030185 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Lime.prefab
-  artifactKey: Guid(32ef3bb980505464f86caad21cc05ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Lime.prefab using Guid(32ef3bb980505464f86caad21cc05ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f311167974c47b6922fe5fae11f3df') in 0.024166 seconds 
-  Import took 0.028704 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Yellow.prefab
-  artifactKey: Guid(30cd8410ddc99e44d8200e313630a488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_QuadBike_Yellow.prefab using Guid(30cd8410ddc99e44d8200e313630a488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56281c90792468298f9bfffad10cf67b') in 0.022618 seconds 
-  Import took 0.027348 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.085986 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Yellow.prefab
-  artifactKey: Guid(083a28f4e71680341937dbc9f8783e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RacingTruck_Yellow.prefab using Guid(083a28f4e71680341937dbc9f8783e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02e2748c914daa600327750d7f78534') in 0.024983 seconds 
-  Import took 0.029217 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Green.prefab
-  artifactKey: Guid(026f45d71e499af41a14b589c36aacfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Green.prefab using Guid(026f45d71e499af41a14b589c36aacfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab1eb513477b6470614cc9ba8c34ad8b') in 0.025092 seconds 
-  Import took 0.030713 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000390 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_LightBlue.prefab
-  artifactKey: Guid(1ec177438e2801846ba842bc26749ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_LightBlue.prefab using Guid(1ec177438e2801846ba842bc26749ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26560c2c407b38f23d79cf7dd00c092') in 0.023037 seconds 
-  Import took 0.028340 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Purple.prefab
-  artifactKey: Guid(a32909a80965cce479feefc5e84260e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Purple.prefab using Guid(a32909a80965cce479feefc5e84260e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1afdfd911c225f7318dcdb6faeb70e') in 0.021966 seconds 
-  Import took 0.027408 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Yellow.prefab
-  artifactKey: Guid(18cf2baac0ba1884eaa7d098d44f6686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Yellow.prefab using Guid(18cf2baac0ba1884eaa7d098d44f6686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94643c678b8ad8a347c96249afcc155b') in 0.025329 seconds 
-  Import took 0.028563 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_White.prefab
-  artifactKey: Guid(a96c9f7bcef67e04589e4e57ee4f1c74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_White.prefab using Guid(a96c9f7bcef67e04589e4e57ee4f1c74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8255edc7b6703eea2d32b9b0559a8931') in 0.022622 seconds 
-  Import took 0.027529 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Black.prefab
-  artifactKey: Guid(3c01b65658a401944a75d0de41281f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Black.prefab using Guid(3c01b65658a401944a75d0de41281f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '708b4ec0e6872817fd7cdb58b7a9a024') in 0.024664 seconds 
-  Import took 0.029610 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Orange.prefab
-  artifactKey: Guid(3894ef444aef68d40a0a8d4b34a2a34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Orange.prefab using Guid(3894ef444aef68d40a0a8d4b34a2a34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ca40ea0c8e1e119567466282db71cf0') in 0.024304 seconds 
-  Import took 0.027144 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Blue.prefab
-  artifactKey: Guid(88b8a00058d11254d948ddba0654218d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Blue.prefab using Guid(88b8a00058d11254d948ddba0654218d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85c6f5764ebf46d613cd3a6314cf134') in 0.021180 seconds 
-  Import took 0.025329 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Black.prefab
-  artifactKey: Guid(530e9e0658436f447acd9c30245e4db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Black.prefab using Guid(530e9e0658436f447acd9c30245e4db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e60fc94f24ea892696b6750126ccdf5') in 0.024098 seconds 
-  Import took 0.026758 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Lime.prefab
-  artifactKey: Guid(a201f3c3992ae5e4c8317192415ccc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Lime.prefab using Guid(a201f3c3992ae5e4c8317192415ccc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab8b69a37b84f0dc8dda35b0d9fd257') in 0.024856 seconds 
-  Import took 0.028633 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Red.prefab
-  artifactKey: Guid(da642fb0f982e5e41b278a49507b51a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_RalleyCar_Red.prefab using Guid(da642fb0f982e5e41b278a49507b51a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0be24d2a3e50affeb1bd57bc8fb48a') in 0.022533 seconds 
-  Import took 0.026410 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.641764 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Blue.prefab
-  artifactKey: Guid(20162041dfa166740bf7a51c45a6fcff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Blue.prefab using Guid(20162041dfa166740bf7a51c45a6fcff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1722f554d128becef5595b4f44b8079') in 0.025903 seconds 
-  Import took 0.029735 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Lime.prefab
-  artifactKey: Guid(210a015bea9a7ec4b8e3101dd800e0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Lime.prefab using Guid(210a015bea9a7ec4b8e3101dd800e0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75856560dabeddec6d91a71bd239667c') in 0.020928 seconds 
-  Import took 0.025232 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Orange.prefab
-  artifactKey: Guid(72f4876f2c5e77440a942832f8140319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Orange.prefab using Guid(72f4876f2c5e77440a942832f8140319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032a9c536c2f740ab90f9718cbe417a7') in 0.023375 seconds 
-  Import took 0.026908 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Red.prefab
-  artifactKey: Guid(1b78ff5ae5c8428458b3972b97bcb836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Red.prefab using Guid(1b78ff5ae5c8428458b3972b97bcb836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b67cc63c6da98e2ea63020275db59b7') in 0.022419 seconds 
-  Import took 0.025702 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000536 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_LightBlue.prefab
-  artifactKey: Guid(668989786809e8740a75052fb2a445f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_LightBlue.prefab using Guid(668989786809e8740a75052fb2a445f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1826db249e720813a31c05fd65971d') in 0.024859 seconds 
-  Import took 0.029056 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Purple.prefab
-  artifactKey: Guid(cc3885a7480cd6a408db471aefb9a14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Purple.prefab using Guid(cc3885a7480cd6a408db471aefb9a14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec01cbdf3f46b95c9984eb591e49f8d4') in 0.027262 seconds 
-  Import took 0.030558 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Yellow.prefab
-  artifactKey: Guid(3890af82d003ab94ab1b141eca9afa23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Yellow.prefab using Guid(3890af82d003ab94ab1b141eca9afa23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4790f49b9e5c88386170df68ca53f806') in 0.025449 seconds 
-  Import took 0.030184 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Green.prefab
-  artifactKey: Guid(f56a9cfb154ae144fa8a269a94b12e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_Green.prefab using Guid(f56a9cfb154ae144fa8a269a94b12e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fc2ef295e21a8e8b10863f12be5aa45') in 0.027978 seconds 
-  Import took 0.034026 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_White.prefab
-  artifactKey: Guid(bcb91d1a1ed9d7341b91108c3903e694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SprintCar_White.prefab using Guid(bcb91d1a1ed9d7341b91108c3903e694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25391915e50d8882696ded4ee5cc175') in 0.028510 seconds 
-  Import took 0.034169 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.258718 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Black.prefab
-  artifactKey: Guid(a32afad12a8298e4a9dd793a320b4bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Black.prefab using Guid(a32afad12a8298e4a9dd793a320b4bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca69e90bdd4ce5dbc16726ba1084ec0e') in 0.029577 seconds 
-  Import took 0.033759 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000238 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Green.prefab
-  artifactKey: Guid(91895565132ec674a965d0e79f42ac52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Green.prefab using Guid(91895565132ec674a965d0e79f42ac52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bbe02a7b74eead8f8244dd36b589c9') in 0.022157 seconds 
-  Import took 0.025935 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Lime.prefab
-  artifactKey: Guid(ab8515495709bd5418189836d55509b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Lime.prefab using Guid(ab8515495709bd5418189836d55509b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3e0e725f979891a0c087e39abddf05') in 0.023682 seconds 
-  Import took 0.027820 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Orange.prefab
-  artifactKey: Guid(6b68b3b91b7df8d4eac57cf8d01da487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Orange.prefab using Guid(6b68b3b91b7df8d4eac57cf8d01da487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5067b111f06447c341c3edb75e057f17') in 0.023952 seconds 
-  Import took 0.027163 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_LightBlue.prefab
-  artifactKey: Guid(f3e0d22b1db48d54897363b1fe85bb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_LightBlue.prefab using Guid(f3e0d22b1db48d54897363b1fe85bb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534028d75b403a03039912f09e0d5449') in 0.021974 seconds 
-  Import took 0.024830 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Red.prefab
-  artifactKey: Guid(628b0ae1ddc3a9640b80938242595733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Red.prefab using Guid(628b0ae1ddc3a9640b80938242595733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25db65c016ad0fcb9b94cbef1086554') in 0.024874 seconds 
-  Import took 0.027937 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Blue.prefab
-  artifactKey: Guid(08208b63063dcc6478aa165a3ce75197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Blue.prefab using Guid(08208b63063dcc6478aa165a3ce75197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b0bb023cf8203b5f4145f4badf1123') in 0.022406 seconds 
-  Import took 0.027323 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Purple.prefab
-  artifactKey: Guid(081be3a922d97654b876a6eb415b664a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Purple.prefab using Guid(081be3a922d97654b876a6eb415b664a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58ab2baf1ee21fcabe022d0305cfe09d') in 0.024747 seconds 
-  Import took 0.027737 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_White.prefab
-  artifactKey: Guid(9802b6ed54d9bb247aef61e3cc4eb0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_White.prefab using Guid(9802b6ed54d9bb247aef61e3cc4eb0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8203c528e33f42c89acc8c6035d37f97') in 0.027446 seconds 
-  Import took 0.031727 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.394314 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Yellow.prefab
-  artifactKey: Guid(66a8a2b36524b6d42996a468a419bcc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StockCar_Yellow.prefab using Guid(66a8a2b36524b6d42996a468a419bcc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def18845bdaa5fa3421e8d97e3b025b0') in 0.025746 seconds 
-  Import took 0.029010 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Green.prefab
-  artifactKey: Guid(d47fb1a79b9e9cb42b406176bc6a049f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Green.prefab using Guid(d47fb1a79b9e9cb42b406176bc6a049f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dc52c8bad10b93db146aa2bdb14f34f') in 0.020492 seconds 
-  Import took 0.024031 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Lime.prefab
-  artifactKey: Guid(d44a3ed0495f9a04aa0e83c045aaccc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Lime.prefab using Guid(d44a3ed0495f9a04aa0e83c045aaccc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b945ef6ee09873945224db3318102f2') in 0.023200 seconds 
-  Import took 0.026640 seconds .
+  Time since last request: 0.000226 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerTight_04.prefab
+  artifactKey: Guid(a0a8141f87add3f4aa0051d28cffce32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerTight_04.prefab using Guid(a0a8141f87add3f4aa0051d28cffce32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7efb36fe262039d744b4ad26d3c8a15') in 0.027430 seconds 
+  Import took 0.030339 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000296 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Blue.prefab
-  artifactKey: Guid(e554e25fb508062428b0afe977765877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Blue.prefab using Guid(e554e25fb508062428b0afe977765877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fad4b6cee10eb81ee5a15d9a8570397f') in 0.022981 seconds 
-  Import took 0.026627 seconds .
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Dirt.prefab
+  artifactKey: Guid(3d4db2bc509aa774280f86d2f1243c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Dirt.prefab using Guid(3d4db2bc509aa774280f86d2f1243c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81ebe823adc3c86da401c94f88a25798') in 0.027489 seconds 
+  Import took 0.031231 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Orange.prefab
-  artifactKey: Guid(6029ca88ed6b78c4f99e6168329e2786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Orange.prefab using Guid(6029ca88ed6b78c4f99e6168329e2786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e821cd6b4ec28a803cb854ceaef24e1') in 0.023863 seconds 
-  Import took 0.027176 seconds .
+  Time since last request: 0.000267 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Sand_Skids.prefab
+  artifactKey: Guid(a25ae6976810efd4fa791d635bc05131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Sand_Skids.prefab using Guid(a25ae6976810efd4fa791d635bc05131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8adbc847839ad9c1df9a80044e26e5bd') in 0.023413 seconds 
+  Import took 0.028498 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Red.prefab
-  artifactKey: Guid(a6c13eb6167cda24e872fa39d6369132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Red.prefab using Guid(a6c13eb6167cda24e872fa39d6369132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1009b06a6d1786c665815c2cb4fb8ad') in 0.025015 seconds 
-  Import took 0.028071 seconds .
+  Time since last request: 0.000284 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerIntersection.prefab
+  artifactKey: Guid(0796d2c02a8fd6344b33cc04574f6df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerIntersection.prefab using Guid(0796d2c02a8fd6344b33cc04574f6df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f41b1096e4ff8574eeeefeb2fad0df') in 0.018171 seconds 
+  Import took 0.021492 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Black.prefab
-  artifactKey: Guid(e5ad7847998196e428b27beee758d9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Black.prefab using Guid(e5ad7847998196e428b27beee758d9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86d4fe319af128f402ac68773db559bf') in 0.023759 seconds 
-  Import took 0.026999 seconds .
+  Time since last request: 0.000240 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Grass_Skids.prefab
+  artifactKey: Guid(6d92a5a9f2114684fa194b0d84b771c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerSmooth_Grass_Skids.prefab using Guid(6d92a5a9f2114684fa194b0d84b771c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b04d1b21354aae57f013b9aa83530c9') in 0.028464 seconds 
+  Import took 0.031553 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_LightBlue.prefab
-  artifactKey: Guid(9a3a9ff08e22fe74ea1bc8edd74a51a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_LightBlue.prefab using Guid(9a3a9ff08e22fe74ea1bc8edd74a51a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d9677e3745a754f29f15346ef30565a') in 0.027541 seconds 
-  Import took 0.030142 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Purple.prefab
-  artifactKey: Guid(7652c325032f8414d862b15a53be447d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Purple.prefab using Guid(7652c325032f8414d862b15a53be447d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cdc0f0ce3438e93ab81bb6c484767fb') in 0.021818 seconds 
-  Import took 0.024838 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.452621 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_White.prefab
-  artifactKey: Guid(9c7a87951bc977e4ba42d520e843b154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_White.prefab using Guid(9c7a87951bc977e4ba42d520e843b154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b805364307004bc39a7a56d81f37e4') in 0.029554 seconds 
-  Import took 0.034551 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Blue.prefab
-  artifactKey: Guid(ac60eca902fe7d64892da7e139061c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Blue.prefab using Guid(ac60eca902fe7d64892da7e139061c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68be568fcb5e8f31c9e33d8e69ecd8f6') in 0.022956 seconds 
-  Import took 0.027210 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Black.prefab
-  artifactKey: Guid(9e5d4735fdc01a74282ff8dde06b761c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Black.prefab using Guid(9e5d4735fdc01a74282ff8dde06b761c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f5bd2689112371c6425b718913c5cd4') in 0.021162 seconds 
-  Import took 0.025431 seconds .
+  Time since last request: 0.000180 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerTSection.prefab
+  artifactKey: Guid(e07698c73df57fd46add02b5c9c6ab56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerTSection.prefab using Guid(e07698c73df57fd46add02b5c9c6ab56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27170932bb77abce4aa9e69511198b0a') in 0.028294 seconds 
+  Import took 0.031603 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000217 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Green.prefab
-  artifactKey: Guid(b303b17a55b124a4d921bbe15dde62ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Green.prefab using Guid(b303b17a55b124a4d921bbe15dde62ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca05f0557fbbc9381f8b437d2ee06a47') in 0.022940 seconds 
-  Import took 0.027106 seconds .
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerTight_03_Skids.prefab
+  artifactKey: Guid(1ee175a2711b6cd428326e874beb6dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Environment/SR_Env_Concrete_Track_CornerTight_03_Skids.prefab using Guid(1ee175a2711b6cd428326e874beb6dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1e1b8c89a051bcfaa5d53542fd9fc6') in 0.028583 seconds 
+  Import took 0.031460 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000231 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_White.prefab
-  artifactKey: Guid(78c7b0e1b005dd84f82f4e2f2ab0e808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_White.prefab using Guid(78c7b0e1b005dd84f82f4e2f2ab0e808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c865e3ad792cffae7690777225162cb') in 0.026999 seconds 
-  Import took 0.031157 seconds .
+  Time since last request: 49.892304 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_RacerOpen_Red.prefab
+  artifactKey: Guid(757a92e57a44cbb4d90287bc19932523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_RacerOpen_Red.prefab using Guid(757a92e57a44cbb4d90287bc19932523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3633e47ed107292e32345b5f5c621c4a') in 0.092435 seconds 
+  Import took 0.104061 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000268 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Purple.prefab
-  artifactKey: Guid(64a4356ec89062643bc759f76e3d9e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Purple.prefab using Guid(64a4356ec89062643bc759f76e3d9e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '803a8b2dcbf454a3984e6910a990ad5f') in 0.024767 seconds 
-  Import took 0.028717 seconds .
+  Time since last request: 0.000321 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_Rider_ Blue.prefab
+  artifactKey: Guid(f14c1d3a8bc6adf4185efc8ebbfa3613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_Rider_ Blue.prefab using Guid(f14c1d3a8bc6adf4185efc8ebbfa3613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89892df14693ccb2d19ceca0f62581a7') in 0.067837 seconds 
+  Import took 0.074239 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Yellow.prefab
-  artifactKey: Guid(39a3c248b048e2846894fbed209b072d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_StreetCar_Yellow.prefab using Guid(39a3c248b048e2846894fbed209b072d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '781eebf8e6fe49a077d057c3c38ac191') in 0.024296 seconds 
-  Import took 0.027987 seconds .
+  Time since last request: 0.000203 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_Rider_ Green.prefab
+  artifactKey: Guid(11d4e0f0289c28c40a5cab1ccaa992a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_Rider_ Green.prefab using Guid(11d4e0f0289c28c40a5cab1ccaa992a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700a698a6211c700ce43b3b178d8ed00') in 0.070228 seconds 
+  Import took 0.078587 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Orange.prefab
-  artifactKey: Guid(f39fa96c532a5db43a8b17929214dce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Orange.prefab using Guid(f39fa96c532a5db43a8b17929214dce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5332ecb240c3bfaed5bd2968044d8df8') in 0.023821 seconds 
-  Import took 0.026709 seconds .
+  Time since last request: 0.000324 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_RacerOpen_Yellow.prefab
+  artifactKey: Guid(8a20f290bff800049bbf05c9bfd72dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_RacerOpen_Yellow.prefab using Guid(8a20f290bff800049bbf05c9bfd72dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f649b510a7d084c1c6988bb98b9a64') in 0.072699 seconds 
+  Import took 0.080550 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000231 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_LightBlue.prefab
-  artifactKey: Guid(2194ac0e8cf35fb44853b27ea1b6f897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_LightBlue.prefab using Guid(2194ac0e8cf35fb44853b27ea1b6f897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff7ba918b6ddc7ba7df1b317442241c') in 0.025953 seconds 
-  Import took 0.030072 seconds .
+  Time since last request: 0.000206 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_RacerOpen_White.prefab
+  artifactKey: Guid(b86a13bfc04389d4e90dce3f5c5d45e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_RacerOpen_White.prefab using Guid(b86a13bfc04389d4e90dce3f5c5d45e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084f03e505e3e750f65f33fa3aa2dadb') in 0.061108 seconds 
+  Import took 0.067919 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Lime.prefab
-  artifactKey: Guid(8e3c1137bc6edd04b8839b3b107d6075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Lime.prefab using Guid(8e3c1137bc6edd04b8839b3b107d6075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873ab264762b6aa0a10a249fa646f5c4') in 0.025418 seconds 
-  Import took 0.028181 seconds .
+  Time since last request: 0.000315 seconds.
+  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_Rider_ Black.prefab
+  artifactKey: Guid(46b00be29c27aba40ada55c6b7f36ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Characters/SR_Character_Rider_ Black.prefab using Guid(46b00be29c27aba40ada55c6b7f36ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a3043604079f51860ad5781827a62b') in 0.065436 seconds 
+  Import took 0.072778 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Red.prefab
-  artifactKey: Guid(fd99b82a316952140962e83894d72c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Red.prefab using Guid(fd99b82a316952140962e83894d72c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66f79b5e8998ab04e8415a7a00d6b4f') in 0.024475 seconds 
-  Import took 0.029396 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008095 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.207 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1208ms)
+		BeginReloadAssembly (141ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (983ms)
+			LoadAssemblies (116ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (336ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (359ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (100ms)
+				ProcessInitializeOnLoadAttributes (228ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
 
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2047.
+Total: 3.818300 ms (FindLiveObjects: 0.204000 ms CreateObjectMapping: 0.041600 ms MarkObjects: 3.545600 ms  DeleteObjects: 0.025600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Yellow.prefab
-  artifactKey: Guid(d35e65583a55be74eab827d8994193a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RacingKit/AssetPacks/SimpleRacer/Prefabs/Vehicles/SR_Veh_SuperSports_Yellow.prefab using Guid(d35e65583a55be74eab827d8994193a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b17cce73aed3a60e712551943292200') in 0.024038 seconds 
-  Import took 0.028144 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007395 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.167 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1168ms)
+		BeginReloadAssembly (130ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (961ms)
+			LoadAssemblies (110ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (332ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (362ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (101ms)
+				ProcessInitializeOnLoadAttributes (229ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
 
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2049.
+Total: 3.233200 ms (FindLiveObjects: 0.174700 ms CreateObjectMapping: 0.036200 ms MarkObjects: 2.998000 ms  DeleteObjects: 0.023300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
